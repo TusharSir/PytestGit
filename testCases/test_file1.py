@@ -64,3 +64,4 @@ class Test_Pytest:
 
 # pytest -v -n=3 -m sanity
 # HTML report --> --html=Reports/myreport.html
+# -p no:warnings
